@@ -6,7 +6,7 @@
 +------------------------------------------------------------------------------+
 |                                                                              |
 |  den@github ~ % whoami                                                       |
-|  Den. I build small apps, tools, experiments, and fixes for whatever is      |
+|  I build small apps, tools, experiments, and fixes for whatever is           |
 |  currently annoying enough to deserve a repo.                                |
 |                                                                              |
 |  den@github ~ % ./pinned --short                                             |
